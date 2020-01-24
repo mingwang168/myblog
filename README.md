@@ -1,6 +1,6 @@
 ## Description
-
-An final lab of AWS class.
+An simple Blog App using React.js and AWS.
+The final lab of AWS class.
 
 ## AWS Technologies
 
@@ -17,11 +17,11 @@ asdfasdfasdfasdf
 
 ### `Amazon S3`
 
-This section has moved her
+![](https://) 
 
 ### `DynamoDB`
 
 This section has moved
 ## React Technologies
 
-### Amplify
+### `Amplify`
