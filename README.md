@@ -16,7 +16,7 @@ asdfasdfasf
 asdfasdfasdfasdf
 
 ### `Amazon S3`
-
+Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance.
 ![](https://github.com/mingwang168/myblog/blob/master/public/Capture.JPG) 
 
 ### `DynamoDB`
