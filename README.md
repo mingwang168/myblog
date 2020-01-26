@@ -6,22 +6,27 @@ The final lab of AWS class.
 
 ### `Cognito`
 
-asdfasdfasdf
+![](https://github.com/mingwang168/myblog/blob/master/public/7.PNG)
+![](https://github.com/mingwang168/myblog/blob/master/public/8.PNG)
 
 ### `Lambda Function `
 
-asdfasdfasf
+![](https://github.com/mingwang168/myblog/blob/master/public/3.PNG)
+![](https://github.com/mingwang168/myblog/blob/master/public/4.PNG)
 
 ### `API GateWay`
-asdfasdfasdfasdf
-![](https://github.com/mingwang168/myblog/blob/master/public/Capture.JPG)
+![](https://github.com/mingwang168/myblog/blob/master/public/5.PNG)
+![](https://github.com/mingwang168/myblog/blob/master/public/6.PNG)
+
 ### `Amazon S3`
 Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance.
-![](https://github.com/mingwang168/myblog/blob/master/public/Capture.JPG) 
+
 ![](https://github.com/mingwang168/myblog/blob/master/public/1.PNG)
+![](https://github.com/mingwang168/myblog/blob/master/public/2.PNG)
 ### `DynamoDB`
 
-This section has moved
+![](https://github.com/mingwang168/myblog/blob/master/public/9.PNG)
+![](https://github.com/mingwang168/myblog/blob/master/public/10.PNG)
 ## React Technologies
 
 ### `Amplify`

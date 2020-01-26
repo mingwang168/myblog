@@ -6,7 +6,8 @@ const Detail = (props) => {
     return (
         props.auth.isAuth && <section className="section auth">
             <div className="container">
-                <h1>{acept.blog.title}</h1>
+                <h1 className="text-center">{acept.blog.title}</h1>
+                <hr/>
                 <h2>-- {acept.blog.subtitle}</h2>
                 <h4>Author : {acept.blog.author}</h4>
                 <img src={acept.blog.picture} alt=""></img>

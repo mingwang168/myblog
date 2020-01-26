@@ -40,7 +40,7 @@ class Home extends React.Component {
       : this.renderBlogsTable(this.state.blogs);
     // console.log(this.props.auth.isAuth);
     return (
-      <div>
+      <div className="container">
         <h1>My Blogs</h1>
         {contents}
       </div>
