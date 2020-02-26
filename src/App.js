@@ -11,7 +11,6 @@ import ChangePassword from './components/auth/ChangePassword';
 import ForgotPasswordSubmit from './components/auth/ForgotPasswordSubmit';
 import ChangePasswordConfirmation from './components/auth/ChangePasswordConfirmation';
 import Detail from './components/auth/Detail';
-import Learning from './components/Learning.js';
 import { Auth } from 'aws-amplify';
 
 class App extends Component {
@@ -33,7 +32,7 @@ class App extends Component {
     try {
       const session = await Auth.currentSession();
       this.authenticateUser(true)
-     // console.log(session);
+      console.log(session);
       const user = await Auth.currentAuthenticatedUser();
       this.setAuthUser(user);
     } catch (error) {
@@ -111,12 +110,6 @@ class App extends Component {
                 exact path="/detail"
                 render={(props) =>
                   <Detail {...props} auth={authProps} />
-                }
-              />
-              <Route
-                exact path="/learning"
-                render={(props) =>
-                  <Learning {...props} auth={authProps} />
                 }
               />
             </Switch>
