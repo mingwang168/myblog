@@ -2,7 +2,7 @@ import React from 'react';
 
 const Detail = (props) => {
     let acept = props.location.state;
-    console.log(acept);
+  //  console.log(acept);
     return (
         props.auth.isAuth && <section className="section auth">
             <div className="container">
